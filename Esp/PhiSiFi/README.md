@@ -53,4 +53,8 @@ Please check the legal regulations in your country before using it.
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Donation / Support / Appreciation
+<<<<<<< HEAD
 <a href="https://www.buymeacoffee.com/bhanujgunas"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
+=======
+<a href="https://www.buymeacoffee.com/bhanujdarks"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
+>>>>>>> refs/remotes/origin/master
