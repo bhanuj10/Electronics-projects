@@ -1,6 +1,6 @@
 # PhiSiFi
 <p align="center">
-<a href="https://github.com/p3tr0s/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
+<a href="https://github.com/bhanuj10/Electronics-projects/tree/master/Esp/PhiSiFi/"><img title="Tool" src="https://img.shields.io/badge/Tool-PhiSiFi-green"></a>
 <img title="Version" src="https://img.shields.io/badge/Version-1.0-green">
 <img title="Support" src="https://img.shields.io/badge/Support-No-red">
 </p>
@@ -25,7 +25,7 @@ Please check the legal regulations in your country before using it.
 2. In Arduino go to `File` -> `Preferences` add this URL to `Additional Boards Manager URLs` ->
    `https://raw.githubusercontent.com/SpacehuhnTech/arduino/main/package_spacehuhn_index.json`  
 3. In Arduino go to `Tools` -> `Board` -> `Boards Manager` search for and install the `deauther` package  
-4. Download and open [PhiSiFi](https://github.com/p3tr0s/PhiSiFi/blob/main/ESP8266_PhiSiFi.ino) with Arduino IDE
+4. Download and open [PhiSiFi](https://github.com/bhanuj10/Electronics-projects/tree/master/Esp/PhiSiFi/ESP8266_PhiSiFi.ino) with Arduino IDE
 6. Select an `ESP8266 Deauther` board in Arduino under `tools` -> `board`
 7. Connect your device and select the serial port in Arduino under `tools` -> `port`
 8. Click Upload button
@@ -53,4 +53,4 @@ Please check the legal regulations in your country before using it.
 This software is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
 ## Donation / Support / Appreciation
-<a href="https://www.buymeacoffee.com/p3tr0s"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
+<a href="https://www.buymeacoffee.com/bhanujgunas"><img src="https://static.vecteezy.com/system/resources/previews/025/222/157/original/shawarma-sandwich-isolated-on-transparent-background-png.png"></a>
